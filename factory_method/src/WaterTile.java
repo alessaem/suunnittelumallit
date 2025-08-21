@@ -9,4 +9,6 @@ public class WaterTile implements Tile{
     public String getCharacter() {
         return character;
     }
+
+    public void action(){}
 }

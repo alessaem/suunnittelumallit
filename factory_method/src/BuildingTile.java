@@ -8,4 +8,7 @@ public class BuildingTile implements Tile {
     public String getType() {
         return type;
     }
+
+    public void action(){}
+
 }

@@ -8,4 +8,7 @@ public class RoadTile implements Tile{
     public String getType() {
         return type;
     }
+
+    public void action(){}
+
 }

@@ -9,6 +9,9 @@ public class SwampTile implements Tile {
     public String getCharacter() {
         return character;
     }
+
+    public void action(){}
+
 }
 
 

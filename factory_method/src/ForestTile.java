@@ -8,4 +8,7 @@ public class ForestTile implements Tile{
     public String getType() {
         return type;
     }
+
+    public void action(){}
+
 }
